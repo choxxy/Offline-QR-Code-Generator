@@ -20,6 +20,11 @@ Its light, quick and handles all codes!
 Generate QR codes for text, URLs, phone numbers, SMS messages, or contacts (vcard).
 
 
+## Contact
+twitter @rahulgolwalkar
+
+
+
 # QRCode.js
 QRCode.js is javascript library for making QRCode. QRCode.js supports Cross-browser with HTML5 Canvas and table tag in DOM.
 QRCode.js has no dependencies.
