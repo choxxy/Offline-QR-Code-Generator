@@ -1,3 +1,7 @@
+- Compress all the contents into a .zip file 
+- Change the extension to .crx
+- Drag and drop in the chrome extension manager page!
+
 Copy text/URL from your laptop to your mobile phone.
 Type long text messages to on your laptop and simply transfer them to your mobile with one scan!
  
