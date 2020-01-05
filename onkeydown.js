@@ -34,7 +34,7 @@ $("#text").
 	on("blur", function () {
 		makeCode();
 	}).
-	on("keydown", function (e) {
+	on("keyup", function (e) {
 		makeCode();
 	
 		/*if (e.keyCode == 13) {
