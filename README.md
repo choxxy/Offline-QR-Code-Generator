@@ -1,3 +1,6 @@
+## Offline QR Code generator Chrome / Edge extension
+Available @ https://chrome.google.com/webstore/detail/offline-qr-code-generator/fehmldbcmhbdkofkiaedfejkalnidchm?hl=en 
+## Build 
 - Compress all the contents into a .zip file 
 - Change the extension to .crx
 - Drag and drop in the chrome extension manager page!
